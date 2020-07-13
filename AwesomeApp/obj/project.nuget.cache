@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sByfyEg2ZVQsPXQuX0nuNUbVqac+3zoZVZYtFfwqd3LPs7wLnPuxQfTipsnCuN/Us53CF09ZVkJbUMN29aAzjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Topsey Creet\\Downloads\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Topsey Creet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Topsey Creet\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Topsey Creet\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}

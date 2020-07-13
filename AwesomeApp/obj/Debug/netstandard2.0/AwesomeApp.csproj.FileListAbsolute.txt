@@ -1,0 +1,12 @@
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.deps.json
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.pdb
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csprojAssemblyReference.cache
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.CoreCompileInputs.cache
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\Topsey Creet\Downloads\xamarin\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb

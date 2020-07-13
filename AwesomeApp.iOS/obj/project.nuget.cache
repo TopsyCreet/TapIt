@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBHr1uhoYj/L3aQZLL70DZiF1hHz7AKlyB8rluDyGJyIN2rMuSMrlaIZ9nDNpyw72excOGb05NcpkQbErVS3wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Topsey Creet\\Downloads\\xamarin\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Topsey Creet\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}
